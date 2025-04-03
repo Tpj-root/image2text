@@ -45,7 +45,7 @@ convert TEST_0.jpg -rotate 90 TEST_1.jpg
 
 
 | SL:NO | FILENAME   | DESCRIPTION | FILE |
-|-------+------------+-------------+------|
+|-------|------------|-------------|------|
 |     1 | TEST_0.jpg | START       |      |
 |     2 | TEST_1.jpg |             |      |
 |     3 | TEST_2.jpg |             |      |
